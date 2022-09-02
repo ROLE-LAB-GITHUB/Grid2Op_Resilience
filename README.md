@@ -4,6 +4,12 @@
 
 Grid2Op+Resilience implements a new backend, the resilience backend. Together with our modified (pandapower+Resilience)[https://github.com/AlexZhaoZt/pandapower_resilience], the framework supports running a power network after the default "gameover" state.  
 
+Developers: Alex Zhao, Zhiyao Zhang, Ming Jin 
+
+Acknowledgement: Partial support of this research was provided by C3.ai Digital Transformation Institute and the Woodrow W. Everett, Jr. SCEEE Development Fund in cooperation with the Southeastern Association of Electrical Engineering Department Heads.
+
+
+
 ## Requirements:
 *   Python >= 3.6
 *   [pandapower+Resilience](https://github.com/AlexZhaoZt/pandapower_resilience)
